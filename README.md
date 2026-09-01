@@ -132,3 +132,11 @@ allowing the dashboard to be tested without an ESP32 or physical sensors.
 
 To use real hardware, enter the ESP32's local IP address in the dashboard
 and connect both devices to the same Wi-Fi network.
+
+
+
+
+
+
+### 🌐 Live Demo
+https://smart-meter-livid.vercel.app/
